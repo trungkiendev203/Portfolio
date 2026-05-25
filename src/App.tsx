@@ -44,7 +44,7 @@ function App() {
             <a href="#work" className="sub-nav__link">Projects</a>
             <a href="#skills" className="sub-nav__link">Skills</a>
             <a
-              href="/Nguyen-Trung-Kien-CV.pdf"
+              href="/Nguyen-Trung-Kien-CV-v1.pdf"
               target="_blank"
               rel="noreferrer"
               className="sub-nav__link"
@@ -91,7 +91,7 @@ function App() {
                 <a href="#work" className="btn-store-hero">View Projects</a>
                 {/* A-03: Download CV button in Hero */}
                 <a
-                  href="/Nguyen-Trung-Kien-CV.pdf"
+                  href="/Nguyen-Trung-Kien-CV-v1.pdf"
                   target="_blank"
                   rel="noreferrer"
                   className="btn-ghost"
@@ -424,7 +424,7 @@ function App() {
             <div className="footer__col">
               <h4 className="footer__col-title">Resume</h4>
               {/* A-03: CV download in footer */}
-              <a href="/Nguyen-Trung-Kien-CV.pdf" target="_blank" rel="noreferrer" className="footer__col-link">
+              <a href="/Nguyen-Trung-Kien-CV-v1.pdf" target="_blank" rel="noreferrer" className="footer__col-link">
                 Download CV (PDF) ↓
               </a>
             </div>
